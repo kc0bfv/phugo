@@ -1,5 +1,5 @@
 # Settings
-baseurl = "https://kc0bfv.github.io/autophugo/"
+baseurl = "https://kc0bfv.github.io/phugo/"
 languageCode = "en-us"
 title = "Phugo"
 theme = "phugo"
