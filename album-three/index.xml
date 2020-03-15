@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Album Three Title on Phugo</title>
-    <link>https://kc0bfv.github.io/autophugo/album-three/</link>
+    <link>https://kc0bfv.github.io/phugo/album-three/</link>
     <description>Recent content in Album Three Title on Phugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Oct 2016 19:08:02 +0300</lastBuildDate>
     
-	<atom:link href="https://kc0bfv.github.io/autophugo/album-three/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kc0bfv.github.io/phugo/album-three/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
